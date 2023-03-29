@@ -1,7 +1,7 @@
 {
   "name": "my-demo-react-app",
   "version": "0.1.0",
-  "description": "My Demo React App",
+  "description": "My Demo React App - Commit with icons",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
